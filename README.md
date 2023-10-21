@@ -20,6 +20,8 @@ List of software packages for analyzing protein corona and analysis using protei
 
 [ENM-Protein-Predict](https://github.com/BanZhan/RF-and-PC 'RFandPc') Protein will reside in the protein corona on the surface of engineered nanomaterials&#x20;
 
+[Prediction of protein corona on nanomaterials by machine learning using novel descriptors](https://www.sciencedirect.com/science/article/pii/S245207482030001X?via%3Dihub)Prediction of protein corona using fluorescein-labeled protein corona as a nanofeature
+
 [RF-and-PC](https://github.com/BanZhan/RF-and-PC)Machine Learning Predicts the Functional Composition of the Protein Corona and the Cellular Recognition of Nanoparticles
 
 [swnt-protein-corona-ML](https://github.com/NicholasOuassil/swnt-protein-corona-ML)Ensemble classifiers and data scraping tools for the prediction of protein surface adsorption to single-walled carbon nanotubes
@@ -30,5 +32,8 @@ the protein corona formation
 
 ### ML by protein corona analysis
 
+[BSAI](https://www.nature.com/articles/nnano.2010.164)Characterizing a biological surface adsorption index describes these interactions by quantifying the competitive adsorption of a set of small molecule probes on nanoparticles.
+
+[Protein Corona Fingerprinting Predicts the Cellular Interaction of Gold and Silver Nanoparticles](https://pubs.acs.org/doi/10.1021/nn406018q) Predicting biological interactions of nanoparticles by protein corona using quantitative modeling
 
 [Monitoring the fate of nanomaterials in vivo](https://pubs.acs.org/doi/full/10.1021/acsnano.9b02774) Monitoring nanomaterial adsorption in vivo by analyzing the protein corona produced by nanomaterials in vivo
