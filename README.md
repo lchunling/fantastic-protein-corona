@@ -95,7 +95,15 @@ the protein corona formation
 
 ### Mass spectrometry approach
 [ESI-Q-TOF-MS](https://doi.org/10.1016/j.jprot.2019.103582)Identification of living cells internalizing nanoparticle hard corona proteins.
+
 [CE-ICP-MS](https://doi.org/10.1002/elps.201600152)Calculate the total sulfur content in protein cysteine residues and the total metal content in NPs .
+
 [FCS](https://www.nature.com/articles/nnano.2009.195)The adsorption of human serum albumin on polymer-coated small-sized (10-20 nm diameter) FePt and CdSe/ZnS nanoparticles was quantified using fluorescence correlation spectroscopy.
+
+[2fFCS](https://doi.org/10.3762/bjnano.2.43)The adsorption of three human serum proteins (i.e., serum albumin, lipoprotein A-I, and lipoprotein E4) on polymer-coated, fluorescently labeled FePt nanoparticles (~12 nm in diameter) with negatively charged carboxylate groups on the surface was analyzed by using double-focus fluorescence correlation spectroscopy.
+
+[ESI-MS]
+
+[MALDI-TOF MS]
 
 
