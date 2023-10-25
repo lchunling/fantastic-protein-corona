@@ -32,7 +32,8 @@ List of software packages for analyzing protein corona and analysis using protei
 energies and preferred orientations of the proteins on the NP surface. This allows ranking of the different proteins according to their adsorption affinities for specific NPs, and to predict the kinetics of
 the protein corona formation
 
---
+----
+
 ### ML by protein corona analysis
 
 [BSAI](https://www.nature.com/articles/nnano.2010.164)Characterizing a biological surface adsorption index describes these interactions by quantifying the competitive adsorption of a set of small molecule probes on nanoparticles.
