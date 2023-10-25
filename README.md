@@ -96,14 +96,18 @@ the protein corona formation
 ### Mass spectrometry approach
 [ESI-Q-TOF-MS](https://doi.org/10.1016/j.jprot.2019.103582)Identification of living cells internalizing nanoparticle hard corona proteins.
 
-[CE-ICP-MS](https://doi.org/10.1002/elps.201600152)Calculate the total sulfur content in protein cysteine residues and the total metal content in NPs .
+[CE-ICP-MS](https://doi.org/10.1002/elps.201600152)Calculate the total sulfur content in protein cysteine residues and the total metal content in NPs 
+
+[MALDI-TOF MS](https://link.springer.com/article/10.1007/s00216-018-0976-z)Development of a rapid analytical procedure for the diagnosis of mastitis in dairy cows with the perspective of analyzing hard protein corona on nanomaterials
+
+[Label free liquid chromatography-MS](https://pubs.acs.org/doi/10.1021/nn201950e)The binding of the 125 proteins identified not only reflects their relative abundance in plasma, but also reveals the enrichment of specific lipoproteins as well as proteins involved in coagulation and complement pathways.
 
 [FCS](https://www.nature.com/articles/nnano.2009.195)The adsorption of human serum albumin on polymer-coated small-sized (10-20 nm diameter) FePt and CdSe/ZnS nanoparticles was quantified using fluorescence correlation spectroscopy.
 
 [2fFCS](https://doi.org/10.3762/bjnano.2.43)The adsorption of three human serum proteins (i.e., serum albumin, lipoprotein A-I, and lipoprotein E4) on polymer-coated, fluorescently labeled FePt nanoparticles (~12 nm in diameter) with negatively charged carboxylate groups on the surface was analyzed by using double-focus fluorescence correlation spectroscopy.
 
-[ESI-MS]
 
-[MALDI-TOF MS]
+
+.
 
 
