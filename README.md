@@ -93,3 +93,7 @@ the protein corona formation
 
 ---
 
+### Mass spectrometry approach
+[ESI-Q-TOF-MS](https://www.sciencedirect.com/science/article/pii/S1874391919303549#ec0005)Identification of living cells internalizing nanoparticle hard corona proteins.
+[]
+
