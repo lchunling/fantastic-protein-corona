@@ -3,27 +3,31 @@ List of software packages for analyzing protein corona and analysis using protei
 
 ## Database
 ### Nano_Data
-[caNanoLab](https://cananolab.nci.nih.gov/)
+[caNanoLab](https://cananolab.nci.nih.gov/)Expedite and validate the use of nanotechnology in biomedicine
 
-[PubVINAS](http://www.pubvinas.com/)
+[PubVINAS](http://www.pubvinas.com/) Database of annotated nanostructures suitable for modeling studies
 
-[S2NANO](http://portal.s2nano.org/)
+[S2NANO](http://portal.s2nano.org/) Develop and commercialize safe and sustainable nano-products
 
-[eNanomapper](http://www.enanomapper.net/)
+[eNanomapper](http://www.enanomapper.net/)Develop a computational framework for nanotoxicity data management
 
-[Nanomaterial registry](http://nanohub.org/)
+[Nanomaterial registry](http://nanohub.org/) Help understanding the fundamental properties of nanomaterials
 
-[Nanoparticle information library](http://nanoparticlelibrary.net/)
+[Nanoparticle information library](http://nanoparticlelibrary.net/)Capture the information about nanomaterial physicochemical characteristics
 
-[NanoMILE](https://ssl.biomax.de/nanomile/cgi/login_bioxm_portal.cgi)
+[NanoMILE](https://ssl.biomax.de/nanomile/cgi/login_bioxm_portal.cgi)Contain characterization data and high throughput screening toxicity data of nanomaterials
 
-[DaNa Knowledge Base](https://www.nanopartikel.info/en/)
 
-[NanoDatabank](http://nanoinfo.org/nanodatabank/)
+[DaNa Knowledge Base](https://www.nanopartikel.info/en/) Help understanding the impacts of nanomaterials for humans and the environment
 
-[NBI Knowledgebase](http://nbi.oregonstate.edu/)
+[NanoDatabank](http://nanoinfo.org/nanodatabank/) Design with simplicity of nanomaterial data storing and sharing —
 
-[Nanowerk](https://www.nanowerk.com/)
+[NBI Knowledgebase](http://nbi.oregonstate.edu/)Help understanding the mechanism of nanomaterial exposure effects
+in biological systems
+
+[Nanowerk](https://www.nanowerk.com/)Help the nanotechnology community to research nanomaterials
+
+
 
 ### Protein_data
 [unitport](https://www.uniprot.org/)
