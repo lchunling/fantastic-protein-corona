@@ -1,5 +1,8 @@
 # Fantastic-protein-corona
 List of software packages for analyzing protein corona and analysis using protein corona
+
+---
+
 ## Characterization processing
 
 [Universal descriptor](https://gitlab.eecs.umich.edu/violigroup/ml/neclas/-/releases/)Description of the protein corona in terms of GE and GT descriptors
@@ -29,6 +32,7 @@ List of software packages for analyzing protein corona and analysis using protei
 energies and preferred orientations of the proteins on the NP surface. This allows ranking of the different proteins according to their adsorption affinities for specific NPs, and to predict the kinetics of
 the protein corona formation
 
+--
 ### ML by protein corona analysis
 
 [BSAI](https://www.nature.com/articles/nnano.2010.164)Characterizing a biological surface adsorption index describes these interactions by quantifying the competitive adsorption of a set of small molecule probes on nanoparticles.
@@ -36,6 +40,8 @@ the protein corona formation
 [Protein Corona Fingerprinting Predicts the Cellular Interaction of Gold and Silver Nanoparticles](https://pubs.acs.org/doi/10.1021/nn406018q) Predicting biological interactions of nanoparticles by protein corona using quantitative modeling
 
 [Monitoring the fate of nanomaterials in vivo](https://pubs.acs.org/doi/full/10.1021/acsnano.9b02774) Monitoring nanomaterial adsorption in vivo by analyzing the protein corona produced by nanomaterials in vivo
+
+---
 
 ## Database
 ### Nano_Data
@@ -63,7 +69,7 @@ in biological systems
 
 [Nanowerk](https://www.nanowerk.com/)Help the nanotechnology community to research nanomaterials
 
-
+--
 ### Protein_data
 [unitport](https://www.uniprot.org/)A comprehensive protein database that provides sequence, structure, function, interactions and annotation information for a large number of proteins. It integrates data from multiple sources, including Swiss-Prot, TrEMBL and PIR databases.
 
