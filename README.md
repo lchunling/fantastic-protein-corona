@@ -13,6 +13,8 @@ List of software packages for analyzing protein corona and analysis using protei
 
 [Plasmonic-knowledge-driven feature engineering, machine learning algorithms, and their prediction accuracy](https://pubs.rsc.org/en/content/articlelanding/2022/NH/D2NH00146B)Predicting size and size distribution of nanomaterials with Extinction spectroscopy data
 
+[Mie-Gan mode](https://pubs.acs.org/doi/10.1021/jp8082425)A method for assessing the average size of gold nanoparticles based on fitting the UV-visible spectra of spherical gold nanoparticles to a Mie model.
+
 
 
 ---
