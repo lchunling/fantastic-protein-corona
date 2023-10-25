@@ -1,5 +1,5 @@
 # Fantastic-protein-corona
-List of software packages for analyzing protein corona and analysis using protein corona
+List of tools, methods and databases used in analyzing protein corona and using protein corona for analysis
 
 ---
 
