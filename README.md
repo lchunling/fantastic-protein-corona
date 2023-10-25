@@ -106,8 +106,3 @@ the protein corona formation
 
 [2fFCS](https://doi.org/10.3762/bjnano.2.43)The adsorption of three human serum proteins (i.e., serum albumin, lipoprotein A-I, and lipoprotein E4) on polymer-coated, fluorescently labeled FePt nanoparticles (~12 nm in diameter) with negatively charged carboxylate groups on the surface was analyzed by using double-focus fluorescence correlation spectroscopy.
 
-
-
-.
-
-
